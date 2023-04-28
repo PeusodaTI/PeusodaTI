@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+ <img src="[https://freerangestock.com/photos/113463/coding-and-programming--computer-science-and-it.html](https://drive.google.com/file/d/1iamqHBXDHh-MDPGvvQFaKKhE4pkTJRjC/view?usp=share_link)" width="100" />
+</div>
 
 <!--
 **PeusodaTI/PeusodaTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
