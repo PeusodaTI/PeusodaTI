@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
- <img src="[https://freerangestock.com/photos/113463/coding-and-programming--computer-science-and-it.html](https://drive.google.com/file/d/1iamqHBXDHh-MDPGvvQFaKKhE4pkTJRjC/view?usp=share_link)" width="100" />
+ <img src="https://github.com/PeusodaTI/PeusodaTI/issues/1#issue-1688812358" width="100" />
 </div>
 
 <!--
