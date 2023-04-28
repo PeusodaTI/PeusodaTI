@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
- <img src="https://github.com/PeusodaTI/PeusodaTI/issues/1#issue-1688812358" width="100" />
+ <img src="![web](https://user-images.githubusercontent.com/94575637/235199614-7af5757e-a3a5-4ab9-8384-33631f0a1371.jpg" width="100" />
 </div>
 
 <!--
