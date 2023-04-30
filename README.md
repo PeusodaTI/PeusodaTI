@@ -1,7 +1,11 @@
 
 <div id="header" align="center">
+<br>
+ <img src="https://user-images.githubusercontent.com/94575637/235199614-7af5757e-a3a5-4ab9-8384-33631f0a1371.jpg" width="100" />
+</div>
+
  <div id="hi" align="center">
-  Hi there 👋
+  Hi, i'm @peusodati👋
  </div
  
   <br>
@@ -18,9 +22,7 @@
   </a>
 </div>
   
- <br>
- <img src="https://user-images.githubusercontent.com/94575637/235199614-7af5757e-a3a5-4ab9-8384-33631f0a1371.jpg" width="300" />
-</div>
+ 
 
 <!--
 **PeusodaTI/PeusodaTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
