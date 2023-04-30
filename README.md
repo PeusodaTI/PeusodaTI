@@ -1,11 +1,16 @@
+:woman_technologist: About Me :
 
 <div id="header" align="center">
-<br>
+ <br>
  <img src="https://user-images.githubusercontent.com/94575637/235199614-7af5757e-a3a5-4ab9-8384-33631f0a1371.jpg" width="100" />
-</div>
+
 
  <div id="hi" align="center">
-  Hi, i'm @peusodati👋
+  👋 Olá, eu sou @peusodati <br>
+  Sou interessado em Desenvolvimento de Aplicações Web <br>
+  🌱 Atualmente estou aprendendo sobre JavaScript, TypeScript, NodeJS e ReactJS <br>
+  Desde o primeiro contato com algoritmos me apaixonei com o universo da programação. Para mim, escrever códigos é um prazer imensurável <br>
+  Como me encontrar <br>
  </div
  
   <br>
@@ -20,7 +25,13 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-</div>
+ </div>
+  <div>
+   <img src="https://komarev.com/ghpvc/?username=peusodati&style=flat-square&color=blue" alt=""/>  
+  </div>
+ </div>
+:hammer_and_wrench: Languages and Tools :
+  
   
  
 
