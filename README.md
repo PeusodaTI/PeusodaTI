@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/peusodati">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "peusodati@gmail.com">
+  <a href = "mailto:contato@peusodati">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
   <a href="https://instagram.com/peusoda" target="_blank">
