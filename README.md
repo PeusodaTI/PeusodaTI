@@ -5,9 +5,9 @@
 
  <div id="hi" align="center">
   👋 Olá, eu sou @peusodati <br>
-  Sou interessado em Desenvolvimento de Aplicações Web <br>
+  ⚡ Sou interessado em Desenvolvimento de Aplicações Web <br>
   🌱 Atualmente estou aprendendo sobre JavaScript, TypeScript, NodeJS e ReactJS <br>
-  Desde o primeiro contato com algoritmos me apaixonei com o universo da programação. Para mim, escrever códigos é um prazer imensurável <br>
+  😍 Desde o primeiro contato com algoritmos me apaixonei com o universo da programação. Para mim, escrever códigos é um prazer imensurável <br>
   📫 Como me encontrar <br>
  </div
  
