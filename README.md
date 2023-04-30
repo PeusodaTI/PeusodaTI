@@ -33,7 +33,7 @@
  
  <div>
  <br><br>
- :hammer_and_wrench: Languages and Tools : 
+ :hammer_and_wrench: Linguagens e Ferramentas: 
  <br><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -46,7 +46,15 @@
 </div>
 </div>  
   
- 
+<div align="center">
+ <br><br>
+ :fire: Estatísticas :
+ <br><br>
+ <div>
+  <a href="https://github.com/peusodati">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peusodati&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peusodati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **PeusodaTI/PeusodaTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
