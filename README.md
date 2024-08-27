@@ -5,8 +5,8 @@
 
  <div id="hi" align="center">
   👋 Olá, eu sou @peusodati <br>
-  ⚡ Sou interessado em Desenvolvimento de Aplicações Web <br>
-  🌱 Atualmente estou desenvolvendo aplicações back end usando TypeScript, NodeJS e Express <br>
+  ⚡ Busco oportunidades para aplicar minhas habilidades técnicas em ambientes desafiadores e inovadores <br>
+  🌱 Atualmente estou desenvolvendo aplicações backend, com foco em API Restful, usando TypeScript, NodeJS e Express <br>
   😍 Desde o primeiro contato com algoritmos me apaixonei com o universo da programação. Para mim, escrever códigos é um prazer imensurável <br>
   📫 Como me encontrar <br>
  </div
