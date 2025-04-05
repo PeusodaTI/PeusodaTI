@@ -4,7 +4,7 @@
 
 
  <div id="hi" align="center">
-  👋 Olá, eu sou @peusodati <br>
+  👋 Olá, eu sou Pedro Henrique Sousa Nascimento <br>
   ⚡ Busco oportunidades para aplicar minhas habilidades técnicas em ambientes desafiadores e inovadores <br>
   🌱 Atualmente estou desenvolvendo aplicações backend, com foco em API Restful, usando TypeScript, NodeJS e Express <br>
   😍 Desde o primeiro contato com algoritmos me apaixonei com o universo da programação. Para mim, escrever códigos é um prazer imensurável <br>
